@@ -1,5 +1,5 @@
 
-# 📚 Tomato — Food Delivery Website 
+# 🥪 Tomato — Food Delivery Website 
 
 Tomato is a full-stack food delivery web application designed to provide users with a seamless experience for ordering their favorite meals online. Built using the MERN stack (MongoDB, Express, React, Node.js), Tomato features user authentication , Intuitive UI to browse restaurants, menus, and customize orders.Precise delivery location selection, ensuring efficient and accurate delivery services. 
 
@@ -417,8 +417,6 @@ Check out the live demo of the project here:
 ![Login](https://drive.google.com/uc?export=view&id=10sfZ0XtN-BlQ8FvS6odCh-seq9O65EGu)
 
 ![Profile](https://drive.google.com/uc?export=view&id=13Sy2UBVfXrVNrFmMoMokVUYWx0CsMMVY)
-
-![Course](https://drive.google.com/uc?export=view&id=11x2eN6HR5C1wtP-dGxed4stDzBeK8unZ6)
 
 ![Course](https://drive.google.com/uc?export=view&id=1YwzWMHWuvzrwpYNteoIVcIKMH50WqzA4)
 
